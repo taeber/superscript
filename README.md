@@ -1,6 +1,8 @@
 SuperScript
 ===========
 
+_[Introducing SuperScript](http://taeber.rapczak.com/words/2023-002-superscript-intro/)_
+
 SuperScript is a subset of JavaScript with TypeScript's syntax for a subset of
 types.
 _So why not call it SubScript? It was taken._
